@@ -1,7 +1,7 @@
 main:
   - title: "Coffee & Snacks"
-    url: /snacks/
+    url: /snacks
   - title: "Posts"
-    url: /posts/
+    url: /posts
   - title: "Tags"
-    url: /tags/
+    url: /tags
